@@ -54,4 +54,4 @@ userSchema.virtual("fullName").get(function () {
 // Note: email index is already created by unique: true above
 userSchema.index({ firstName: 1, lastName: 1 });
 
-module.exports = mongoose.model("users", userSchema);
+module.exports = mongoose.model("User", userSchema);
