@@ -12,7 +12,7 @@ A RESTful API built with Node.js, Express, and MongoDB, featuring two collection
 - **Search & Filtering**: Advanced search and filtering capabilities
 - **Deployment Ready**: Configured for Render deployment
 
-## 📚 API Collections
+## API Collections
 
 ### Users Collection
 
