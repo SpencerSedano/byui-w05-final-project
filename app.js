@@ -29,7 +29,7 @@ const swaggerDefinition = {
     {
       url:
         process.env.NODE_ENV === "production"
-          ? "https://your-app-name.onrender.com"
+          ? "https://byui-w05-final-project.onrender.com"
           : `http://localhost:${PORT}`,
       description:
         process.env.NODE_ENV === "production"
